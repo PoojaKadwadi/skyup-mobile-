@@ -36,6 +36,7 @@ android/local.properties
 android/captures/
 android/.cxx/
 android/.externalNativeBuild/
+android/.gradle.properties
 
 # ── Android Secrets (NEVER commit) ───────────────────────────────────────────
 android/keystore.properties
