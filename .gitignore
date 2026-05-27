@@ -75,6 +75,11 @@ buck-out/
 .env.development
 .env.production
 .env.staging
+.env.example
+
+# ── Firebase (NEVER commit) ──────────────────────────────────────────────────
+google-services.json
+GoogleService-Info.plist
 
 # ── IDE ──────────────────────────────────────────────────────────────────────
 .idea/
